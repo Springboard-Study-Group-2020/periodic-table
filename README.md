@@ -6,7 +6,7 @@ It relies on the [Chimie API](https://chimie-api.herokuapp.com/) built by [Jorge
 
 We hope you enjoy this experience! We are investing our best HTML, CSS, and JS skills into this project. :computer:
 
-Mobile-first design :iphone: and an accessible UX :wheelchair: are top-of mind as we build this project.
+Mobile-first design :iphone: and an accessible UX :wheelchair: are top-of-mind as we build this project.
 
 
 
